@@ -1,0 +1,12 @@
+[
+  {
+    "name": "KankiAnimeSistemi",
+    "url": "https://githubusercontent.com",
+    "version": 1,
+    "authors": ["Kanki"],
+    "description": "Kanki'nin Sansürsüz Anime ve Dizi Havuzu",
+    "iconUrl": "",
+    "tvTypes": ["Anime"],
+    "language": "tr"
+  }
+]
